@@ -1,3 +1,4 @@
+
 # Deloitte Data Analytics Job Simulation
 
 ## About this project
@@ -19,7 +20,7 @@ The project involved analysing factory machine telemetry data, building an inter
 - Analysed downtime by machine type.
 - Developed a dashboard to help identify operational inefficiencies and potential maintenance priorities.
 
-**Deliverable:** Tableau dashboard and packaged workbook.
+**Deliverable:** Tableau dashboard and packaged workbook.Added the file in the main folder.
 
 ### Task 2: Forensic Technology – Employee Equality Analysis
 
